@@ -1,2 +1,2 @@
-# Pre-Bootcamp
-This is my Pre-Bootcamp README.md
+# Pre-Bootcamp-Public
+This is my Pre-Bootcamp Public README.md
